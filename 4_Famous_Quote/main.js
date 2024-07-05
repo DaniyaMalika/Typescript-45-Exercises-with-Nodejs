@@ -1,0 +1,1 @@
+console.log("Muhammad Ali Jinnah once said,\"Come forward as servants of Islam, organize the people economically, socially, educationally and politically and I am sure that you will be a power that will be accepted by everybody.\"");
